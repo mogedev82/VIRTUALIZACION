@@ -1,0 +1,17 @@
+Las computadores se pueden partir en pequeños pedazos, y usarlo para diferentes permisos
+Ventajas permite dividir computadoras 32GB ram (32 computadoras con 1 gb de ram)
+      ubers (usuario, vehiculo, mapa, conductor, tarjeta credito, servicio, encuesta) 
+      todo descentralizado las aplicaciones son independientes y estan en distintos lugares
+      aplicaciones estan echas por diferentes tipos de microservicios
+      exiten dos tipos de supervisores
+        1. windows 15% tareas de CPU
+        2. hiper-v
+        3. Juego de tu hno
+    usar los recursos de un pc
+
+Desventajas (5 servidores en un mismo servidor) pero puedes copiar el estado de tu HD vas tener todo el acceso
+  copias de servidores, y configuraciones inicial de equipo. 
+  virtualizacion es para proteger y estar disponible. servidor en EEUU, EUROPA O ASIA
+
+      OTRO TIPO DE SERVIDOR 
+        ejecutar aplicaiones de muchos recursos o respaldarlos o moverlos, y mover el software facilmente
